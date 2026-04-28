@@ -1,0 +1,6 @@
+2026/04/28-16:33:04.827 ad66 Reusing MANIFEST /opt/lampp/htdocs/projetos/whatsapp-bot/Back-End/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/28-16:33:04.831 ad66 Recovering log #3
+2026/04/28-16:33:04.832 ad66 Reusing old log /opt/lampp/htdocs/projetos/whatsapp-bot/Back-End/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2026/04/28-16:34:04.834 ad66 Level-0 table #5: started
+2026/04/28-16:34:04.839 ad66 Level-0 table #5: 21486 bytes OK
+2026/04/28-16:34:04.842 ad66 Delete type=0 #3
