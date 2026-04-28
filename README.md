@@ -1,36 +1,62 @@
-# 🤖 WhatsApp Bot
+# WhatsApp Bot
 
-Um chatbot para WhatsApp desenvolvido com Node.js, capaz de automatizar atendimentos, responder usuários e encaminhar para atendimento humano.
+## Descrição do Projeto
+
+Este projeto é um chatbot automatizado para o WhatsApp, desenvolvido com o objetivo de simular um atendimento automático.
+
+O bot responde mensagens dos usuários com base em opções pré-definidas, como:
+
+- Informações de horário
+- Encaminhamento para atendente
+- Menu interativo de respostas
 
 ---
 
 ## Funcionalidades
 
-- Atendimento automático via WhatsApp
-- Menu interativo com opções
-- Informações de horário de atendimento
-- Encaminhamento para atendente
-- Respostas automáticas em tempo real
+- Conexão com WhatsApp via QR Code
+- Respostas automáticas
+- Menu interativo para o usuário
+- Encaminhamento para atendimento humano
+- Execução em tempo real
 
 ---
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - Node.js 
-- JavaScript
-- whatsapp-web.js 
-- HTML
-- CSS
+- JavaScript 
+- WhatsApp Web.js 
+- HTML5
+- CSS3
 
 ---
 
-## Estrutura do Projeto
-Como usar:
+## Como Executar o Projeto
+
+Pré-requisitos:
+- Node.js instalado
+- NPM ou Yarn
+
+Instalação: 
+git clone https://github.com/amandagrsl/WhatsApp-Bot.git
+cd WhatsApp-Bot
+npm install
+
+Rodando o projeto:
+node index.js
+
+---
+
+## Como Usar
+
 - Execute o projeto
-- Escaneie o QR Code com o WhatsApp
-- Envie uma mensagem para o número conectado
-- Interaja com o menu automático
+- Abra o navegador no endereço indicado
+- Escaneie o QR Code com seu WhatsApp
+- Comece a enviar mensagens para o bot
 
-## Desenvolvido por
+---
 
-Amanda Rocha 💜
+## Autora
+
+Desenvolvido por Amanda Rocha
