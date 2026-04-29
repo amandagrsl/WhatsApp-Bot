@@ -24,7 +24,8 @@ O bot responde mensagens dos usuários com base em opções pré-definidas, como
 
 ## Tecnologias Utilizadas
 
-- Node.js 
+- Node.js
+- Express.js
 - JavaScript 
 - WhatsApp Web.js 
 - HTML5
